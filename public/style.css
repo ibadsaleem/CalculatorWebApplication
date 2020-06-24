@@ -1,0 +1,20 @@
+.main{
+
+width: 300px;
+margin: 0 auto;
+margin-top: 100px;
+
+}
+
+input{
+    width: 292px;
+    height: 70px;
+    font-size: 18pt;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid lightblue;
+}
+
+body{
+    background-image: url(calc.jpg);
+}
